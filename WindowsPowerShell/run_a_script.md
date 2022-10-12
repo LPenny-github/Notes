@@ -3,7 +3,7 @@
 
 ## purpose
 
-執行自己轉寫的腳本(script)。
+執行自己撰寫的腳本(script)。
 
 
 ## preparation
