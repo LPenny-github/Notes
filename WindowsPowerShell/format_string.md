@@ -15,3 +15,7 @@ foreach ($name in $name_array) {
 	"Hello, $name."
 }
 ```
+
+## reference
+
+* [Understanding PowerShell and Basic String Formatting](https://devblogs.microsoft.com/scripting/understanding-powershell-and-basic-string-formatting/)
