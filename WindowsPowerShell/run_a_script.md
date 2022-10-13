@@ -8,7 +8,7 @@
 
 ## preparation
 
-1. check `ExecutionPolicy` first
+1. check `ExecutionPolicy` first (if your computer's OS is Windows...)
 
     * `Get-ExecutionPolicy`: 取得你的執行設定
 
