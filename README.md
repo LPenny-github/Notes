@@ -6,6 +6,7 @@
 * [Git](./Git)
   * [basic_command](./Git/basic_command.md)
 * [TechnicalTerms](./TechnicalTerms)
+  * [client_side_rendering](./TechnicalTerms/client_side_rendering.md)
   * [progressive_web_application](./TechnicalTerms/progressive_web_application.md)
   * [server_side_rendering](./TechnicalTerms/server_side_rendering.md)
 * [Windows11](./Windows11)
