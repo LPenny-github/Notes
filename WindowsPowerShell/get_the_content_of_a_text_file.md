@@ -33,3 +33,9 @@
     ```powershell
     Get-Content -Path .\chores_list.txt -Encoding UTF8
     ```
+
+## FYI
+
+* 不同版本、平台 可能出現編碼差異：
+    
+    * [分享幾個在 Windows 與 Linux 常見的編碼問題與解決方案](https://blog.miniasp.com/post/2021/08/05/Character-Encoding-Problems-for-Windows-and-Linux)
