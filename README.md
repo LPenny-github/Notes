@@ -14,6 +14,8 @@
 * [WindowsPowerShell](./WindowsPowerShell)
   * [basic_command](./WindowsPowerShell/basic_command.md)
   * [format_string](./WindowsPowerShell/format_string.md)
+  * [get_the_content_of_a_text_file](./WindowsPowerShell/get_the_content_of_a_text_file.md)
+  * [install_powershell_using_winget](./WindowsPowerShell/install_powershell_using_winget.md)
   * [run_a_script](./WindowsPowerShell/run_a_script.md)
 * [新筆電101](./新筆電101)
   * [1](./新筆電101/1.先備知識)
